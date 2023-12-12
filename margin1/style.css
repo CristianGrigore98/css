@@ -1,0 +1,26 @@
+.one{
+    border: 2px solid blue;
+    background-color: pink;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 32px;
+    margin: 10px 21% 12px 30%;
+
+}
+
+.two{ 
+    border: 2px solid brown;
+    background-color: aquamarine;
+    margin-left: 16%;
+    margin-right: 18%;
+    margin: 12px 20% 20px 29%;
+}
+
+.three{
+    border: 2px solid orange;
+    background-color: burlywood;
+    margin-left: 500px;
+    margin-right: 10%;
+    padding: 32px;
+    margin: 48px 20% 0 60%;
+}
